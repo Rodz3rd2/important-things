@@ -1,13 +1,7 @@
-# Website Link
+# Read this first
 
-## CSS Support For Email Client
- - https://www.campaignmonitor.com/css/
-
-## CSS inliner
- - https://inliner.cm/
-
-## Very wonderful tutorial for Flexbox
- - https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.7cbipiqc7
-
-## HTML% Accessibility
- - http://html5accessibility.com/
+# HTML5 Accessibility
+ - Use HTML5 Elements & ARIA Landmark Roles for Document Structure
+ - Use alt attribute in img tag
+ - For checkboxes and radio buttons, use the <fieldset> and <legend> elements to get everything labeled properly
+ - When using required attribute, use aria-required="true" too.
