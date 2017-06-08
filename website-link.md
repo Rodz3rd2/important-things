@@ -18,3 +18,6 @@
 
 ## Optimizing the front-end
  - https://hackernoon.com/optimising-the-front-end-for-the-browser-f2f51a29c572#.zgjoav7hx
+
+## Designing Efficient Web Forms: On Structure, Inputs, Labels And Actions
+ - https://www.smashingmagazine.com/2017/06/designing-efficient-web-forms/?utm_source=frontendfocus&utm_medium=email
